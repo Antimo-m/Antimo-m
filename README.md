@@ -16,9 +16,8 @@ Sono uno sviluppatore web appassionato di tecnologia e sviluppo software. Attual
 ### Frontend
 
 * HTML5
-* CSS3
 * Bootstrap
-* JavaScript (ES6+)
+* JavaScript
 * React
 * Axios
 * Vite
