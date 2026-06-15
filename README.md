@@ -60,4 +60,4 @@ Progetto web dedicato al settore cosmetico e skincare, sviluppato con l'obiettiv
 
 📧 Email: montellaantimo8@gmail.com
 
-📍 Italy/Napoli🇮🇹
+📍 Italy/Napoli 🇮🇹 🌋
