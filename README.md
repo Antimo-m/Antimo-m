@@ -8,7 +8,7 @@ Sono uno sviluppatore web appassionato di tecnologia e sviluppo software. Attual
 🔭 **Su cosa sto lavorando**
 
 * MyDiary, un'applicazione che combina diario digitale e organizzazione personale tramite Kanban.
-* Progetti web basati su React, Laravel e MySQL.
+* Rya-bakery & cafè, sito web per una delle migliori focacce ligure(mio parere personale)
 * Approfondimento continuo delle best practice nello sviluppo Full Stack.
 
 ## 🛠️ Stack Tecnologico
